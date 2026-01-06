@@ -106,5 +106,5 @@ The next step in development is to focus on implementing the smooth fade-in anim
 
 
 
-Author: Manus AI (Based on user specifications) License: [Choose your license, e.g., MIT]
+Dev Author: Valfrides 
 
